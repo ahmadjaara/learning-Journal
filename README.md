@@ -1,5 +1,5 @@
 # learning-Journal 
-## what i learned 
+## what I learned ? 
 -I learned how to make a test to validate my function using TDD method which I write the test first then I write my code
 and testing my code like this will help me to prevent complexity happen when i don't test my code part by part and then my code stuck
 

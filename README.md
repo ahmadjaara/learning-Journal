@@ -1,9 +1,9 @@
 # learning-Journal 
 ## what I learned ? 
--I learned how to make a test to validate my function using TDD method which I write the test first then I write my code
+- I learned how to make a test to validate my function using TDD method which I write the test first then I write my code
 and testing my code like this will help me to prevent complexity happen when i don't test my code part by part and then my code stuck
 
-who write the test ?
+       who write the test ?
 
 - a group of tester (developers)
 

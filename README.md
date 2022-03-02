@@ -5,9 +5,9 @@ and testing my code like this will help me to prevent complexity happen when i d
 
 - who write the test ?
 
-1- **a group of tester (developers)**
+  1. **a group of tester (developers)**
 
-2- **or you as a developer try to build your own test**
+  2. **or you as a developer try to build your own test**
 
 
 - in the test file you will import the module and name of function you want to test
